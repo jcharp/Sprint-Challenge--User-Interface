@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -145,9 +144,12 @@ footer nav a {
     text-decoration: none;
 }
 .head {
+  
+    width:1300px;
     display:flex;
     justify-content: space-around;
-
+    margin-top: 40px;
+    
 }
 .boxes .box1 {
     background-color: teal;

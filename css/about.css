@@ -76,10 +76,14 @@ p {
     margin-top: 40px;
 }
 
+.container p {
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
 .squares {
   
     margin-top: 50px;
-    width: 1500px;
+    width: 100px;
     height: 300px;
     display: flex;
     flex-direction: row;
@@ -87,15 +91,8 @@ p {
 
 
 }
+.imageTop img{
+display: flex;
+width: 500px;
 
-.squares div {
-    border: 1px solid black;
-    background: lightgray;
-    display: flex;
-    flex-direction: row;
-   height: 250px;
-   margin-left: 100px;
-    width:750px;
-    flex-wrap: wrap;
-    padding: 10px;
 }

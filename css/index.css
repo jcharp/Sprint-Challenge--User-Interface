@@ -145,7 +145,7 @@ footer nav a {
 }
 .head {
   
-    margin-left:220px;
+    margin-left:420px;
     width:800px;
     display:flex;
     justify-content: space-around;
@@ -156,7 +156,7 @@ footer nav a {
 
 .top-image {
     
-    margin-left: 50px;
+    margin-left: 210px;
     width: 1200px;
     display: flex;
     justify-content: center;

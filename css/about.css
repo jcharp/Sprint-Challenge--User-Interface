@@ -92,13 +92,18 @@ p {
     
     margin-bottom: 20px;
     margin-left: 420px;
+    
 }
 .container p {
     width: 800px;
-    border-bottom: 1px solid black;
+    
     height:100px;
     margin-bottom: 60px;
     margin-left: 420px;
+}
+
+.about-page {
+    border-bottom: 1px solid black;
 }
 
 
@@ -129,6 +134,54 @@ p {
    
     
 }
+
+.top-row {
+
+    
+    margin-left: 400px;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}   
+
+.toph {
+
+    margin-top: 20px;
+
+    
+    width: 800px;
+    margin-left: 250px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.topP {
+
+   
+
+    
+    width: 600px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  align-items: flex-start;
+
+}
+
+.topP2 {
+
+    border: 1px solid black; margin-top: 20px;
+    width: 600px;
+    margin-left: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  align-items: flex-start;
+
+
+}
+/*
 
 
 .first-row {
